@@ -1,5 +1,7 @@
 🔥 FULL MASTER LIST — ALL POSSIBLE ML ANIMATIONS
+
 🟦 REGRESSION MODELS
+
 1. Linear Regression
 
 Gradient descent line update
@@ -23,7 +25,9 @@ Effect of λ on weights
 Weight shrinkage animation
 
 5. Elastic Net
+
 🟥 CLASSIFICATION MODELS
+
 6. Logistic Regression
 
 Decision boundary update
@@ -71,6 +75,7 @@ Weight updates step-by-step
 Dynamic decision boundary
 
 🟩 CLUSTERING MODELS
+
 13. K-Means Clustering
 
 Centroid movement animation
@@ -96,6 +101,7 @@ Ellipse contours updating
 Expectation-Maximization steps
 
 🟪 DIMENSIONALITY REDUCTION
+
 17. PCA
 
 Projection animation
@@ -113,6 +119,7 @@ Cluster formation
 Manifold learning animation
 
 🟧 NEURAL NETWORKS
+
 20. Feedforward Neural Network
 
 Activations flowing layer by layer
@@ -134,6 +141,7 @@ Hidden state evolution
 Gradient flow through layers
 
 🟨 OPTIMIZATION / TRAINING
+
 24. Gradient Descent (2D contour plot)
 
 Path taken by optimizer
@@ -147,7 +155,9 @@ Comparison of optimization paths
 Overshooting vs smooth convergence
 
 27. Batch vs Mini-batch vs Full GD
+
 🟫 ENSEMBLE METHODS
+
 28. AdaBoost
 
 Animation of sample weights
@@ -161,6 +171,7 @@ Trees added one by one
 Residuals shrinking
 
 🟩 TIME-SERIES MODELS
+
 30. ARIMA / SARIMA
 
 Forecast update animation
@@ -174,6 +185,7 @@ Sequence sliding window animation
 Level + trend + seasonality animation
 
 🟦 PROBABILITY & STATISTICS
+
 33. Normal Distribution Fitting
 
 Mean/variance updates
@@ -187,6 +199,7 @@ Bandwidth effect animation
 Posterior changing with data
 
 🟪 DATA VISUALIZATION ANIMATIONS
+
 36. Bar Chart Race
 37. Scatter Evolution Animation
 38. Heatmap Animation
